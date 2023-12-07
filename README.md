@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YeganeGholipour
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning and Deep Learning 
-- 💞️ I’m interested to collaborate on Machine Learning projects
+- 👀 I’m interested in Web developement and AI
+- 🌱 I’m currently diong some projects with django and django rest framework 
+- 💞️ I’m interested to collaborate on Machine Learning and django projects
 - 📫 You can reach me through my email: yeganegholiour@gmail.com
 
 <!---
