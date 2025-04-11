@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YeganeGholipour
-- 👀 I’m interested in Web developement and AI
-- 🌱 I’m currently diong some projects with django and django rest framework 
-- 💞️ I’m interested to collaborate on Machine Learning and django projects
+- 👀 I’m interested in System Design & Kernel Development
+- 🌱 I’m currently Learning C and making a mini shell :)
+- 💞️ I’m interested to collaborate on kernel development and anything cs related really ><
 - 📫 You can reach me through my email: yeganegholiour@gmail.com
 
 <!---
