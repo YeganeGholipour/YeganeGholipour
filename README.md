@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yegane-gholipour-18394927b) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeganegholiour@gmail.com) 
 
 # 💻 Tech Stack:
