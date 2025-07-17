@@ -1,8 +1,6 @@
 ## Hi, I’m Yegane ✨
  💻 I’m interested in System Design & Kernel Development
 
- 👨‍💻 I’m currently making a mini kernel :)
-
  👨‍💻 I've also created a mini UNIX shell and X86 mini Kernel. So Check it out :)
  
  👓 I'm looking for help with resources about linux embeded system
